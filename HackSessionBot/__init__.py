@@ -13,7 +13,6 @@ API_ID = Config.API_ID
 API_HASH = Config.API_HASH
 TOKEN = Config.TOKEN
 START_PIC = Config.START_PIC
-CHAT = Config.CHAT
 
 
 if not START_PIC:
