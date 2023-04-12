@@ -8,7 +8,7 @@
          "banall" 
      ], 
      "website": "https://t.me/RomeoBot_op", 
-     "repository": "https://github.com/Almortage/ljyu", 
+     "repository": "https://github.com/RJ-5/HackSessionBot", 
      "success_url": "https://t.me/RomeoBot_op", 
      "env": { 
          "API_ID": { 
