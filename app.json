@@ -39,7 +39,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "Eco"
+            "size": "standard-1x"
         }
     },
     "stack": "heroku-20"
