@@ -1,4 +1,4 @@
-{
+× ، ]{
     "name": "HackSessionBot",
     "description": "group destroer",
     "logo": "https://telegra.ph//file/87fa102aa588b71f43b08.jpg",
@@ -39,7 +39,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "Eco"
+            "size": "ALMORTAGEL"
         }
     },
     "stack": "container"
