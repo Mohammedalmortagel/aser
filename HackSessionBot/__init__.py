@@ -1,4 +1,3 @@
-
 import os
 import asyncio
 import logging
@@ -6,7 +5,7 @@ from config import *
 from pyrogram import Client
 from rich.console import Console
 from rich.table import Table
-from Romeo.Helpers.data import LOG_TEXT
+from HackSessionBot.Helpers.data import LOG_TEXT
 from pyromod import listen 
 
 
